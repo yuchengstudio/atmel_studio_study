@@ -3,3 +3,6 @@
 
 # 2.如何离线安装“器件包（device pack）”
 http://packs.download.atmel.com/
+
+# 3.GCC编译器下载（下载到GCC for ARM） 
+https://developer.arm.com/open-source/gnu-toolchain/gnu-rm
